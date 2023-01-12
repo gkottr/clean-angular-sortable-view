@@ -1,8 +1,8 @@
 {
-  "name": "angular-sortable-view",
-  "version": "0.0.21",
+  "name": "clean-angular-sortable-view",
+  "version": "0.0.17",
   "description": "Fully declarative (multi)sortable for AngularJS",
-  "main": "./src/angular-sortable-view.js",
+  "main": "./src/clean-angular-sortable-view.js",
   "homepage": "http://kamilkp.github.io/angular-sortable-view",
   "author": {
     "name": "Kamil Pekala",
@@ -11,17 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/kamilkp/angular-sortable-view.git"
-  },
-  "devDependencies": {
-    "grunt": "^0.4.5",
-    "grunt-cli": "^1.2.0",
-    "grunt-contrib-jshint": "^0.10.0",
-    "grunt-contrib-uglify": "^0.4.0"
-  },
-  "scripts": {
-    "test": "grunt travis",
-    "build": "grunt min"
+    "url": "https://github.com/gkottr/clean-angular-sortable-view.git"
   },
   "dependencies": {}
 }
